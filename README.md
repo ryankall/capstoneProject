@@ -7,7 +7,7 @@
 
 
 <br></br>
-<p align = "center"><b>Project Members</b> </p>
+<p align = "center"  style="font-size:160%;"><b>Project Members</b> </p>
 
 <p align="center">
     <img src="https://github.com/ryankall/capstoneProject/blob/master/file_thumb.jpg" width="200"/>

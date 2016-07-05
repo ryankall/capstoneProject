@@ -20,6 +20,10 @@
     interest lie in Big Data and Machine Learning. 
 </p>
 
+<p align="center">
+    <img src="https:http://imgur.com/c8vsn1l" width="200"/>
+</p>
+
 <p>
 My name is Tereza Manukian and I'm interested in Machine Learning,
 Robotics, Computer Vision and Interaction. 

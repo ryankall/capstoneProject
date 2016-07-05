@@ -2,11 +2,8 @@
 Research Student attrition
 
 
-
-![alt tag](https://github.com/ryankall/capstoneProject/blob/master/file_thumb.jpg)
-
 <p align="center">
-  <img src="https://github.com/ryankall/capstoneProject/blob/master/file_thumb.jpg" width="350"/>
+  <img src="https://github.com/ryankall/capstoneProject/blob/master/file_thumb.jpg" width="200"/>
 </p>
 ``
 My name is Ryan Kallicharran. I am an aspiring 

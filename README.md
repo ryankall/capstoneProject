@@ -19,9 +19,9 @@
     expert in data analytics field one day. My other 
     interest lie in Big Data and Machine Learning. 
 </p>
-
+<br></br>
 <p align="center">
-    <img src="http://imgur.com/c8vsn1l"/>
+    <img src="https://github.com/ryankall/capstoneProject/blob/master/967144_10200582035426911_316818168_o-4.jpg" width="200/">
 </p>
 
 <p>

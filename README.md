@@ -20,4 +20,9 @@
     interest lie in Big Data and Machine Learning. 
 </p>
 
-
+<p>
+My name is Tereza Manukian and I'm interested in Machine Learning,
+Robotics, Computer Vision and Interaction. 
+I plan to enroll in graduate school 
+to further my knowledge in those fileds. 
+</p>

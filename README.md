@@ -1,4 +1,4 @@
-<h> capstoneProject</h>
+<h1> capstoneProject</h1>
 <br></br>
 <p align ="center"  style="font-size:20px"><b>Research Student attrition</b></p>
 <p align="left">

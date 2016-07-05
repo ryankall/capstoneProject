@@ -21,7 +21,7 @@
 </p>
 <br></br>
 <p align="center">
-    <img src="https://github.com/ryankall/capstoneProject/blob/master/967144_10200582035426911_316818168_o-4.jpg" width="200/">
+    <img src="https://github.com/ryankall/capstoneProject/blob/master/13517396_10208688713008784_1369964135096604961_o.jpg" width="200/">
 </p>
 
 <p>

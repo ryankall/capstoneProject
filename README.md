@@ -4,9 +4,11 @@
 <p align="left">
     Student attrition has been an important problem for students as well as educational establishments. What is student attrition? Student attrition is the reduction in numbers of students attending courses/program/school as time goes by. Thus, our research project: the cause of student attrition based on three contributing factors (age, gpa, admission scores). We hope to find meaningful results that will further help the school lower the student dropout rate.
     
-    Paper in Progress: https://www.overleaf.com/read/ndyqybtdzhvx
+    
 </p>
-
+<p align = "left">
+Paper in Progress: https://www.overleaf.com/read/ndyqybtdzhvx
+</p>
 
 <br></br>
 <p align = "center"><b>Project Members</b> </p>

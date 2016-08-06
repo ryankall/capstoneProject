@@ -25,11 +25,10 @@ df2 = df.groupby(['studentid', 'start_dt'], as_index=False,)['grade_num'].mean()
 df_uniqueid = df.drop_duplicates('studentid')
 df3 = pd.merge(df2, df_uniqueid, on='studentid', how='left')
 df3['admission_sc'] = df3.apply(lambda x: label_race(x['trans_caa'], x['caa']), axis=1)
-#fill in missing data using imputing approach
 mean_dist = df3['admission_sc'].mean()
 df3['admission_sc'].replace(np.nan,mean_dist,inplace=True)
 
-
+Count_Row=df3.shape[0] #gives number of row count
 df3['semester'] = None
 
 counts = dict()
@@ -42,7 +41,8 @@ for i, row in df3.iterrows():
         counts[key] = 1
     counter= counter +1
     print counter,
-    print 'of 267242'
+    print 'of ',
+    print Count_Row
     df3.loc[i, 'semester'] = counts[key]
 
 #take only these columns of data

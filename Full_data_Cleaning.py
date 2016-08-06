@@ -1,3 +1,10 @@
+############################################################
+#Author: Ryan Kallicharran                                 #
+# Purpose: clean the data and index semester per student   #
+# Date: 7/29/2016                                          #                                          
+############################################################
+
+
 import pandas as pd
 import numpy as np
 

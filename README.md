@@ -8,6 +8,8 @@
 </p>
 <p align = "left">
 Research Paper: https://github.com/ryankall/capstoneProject/blob/master/ResearchPaper.pdf
+</p>
+<p align = "left">
 Final Presentation: https://github.com/ryankall/capstoneProject/blob/master/Final_presentation.pdf
 </p>
 

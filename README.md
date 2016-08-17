@@ -7,7 +7,7 @@
     
 </p>
 <p align = "left">
-Paper in Progress: https://www.overleaf.com/read/ndyqybtdzhvx
+Research Paper: https://github.com/ryankall/capstoneProject/blob/master/ResearchPaper.pdf
 </p>
 
 <br></br>

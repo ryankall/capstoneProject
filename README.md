@@ -26,6 +26,9 @@ Final Presentation: https://github.com/ryankall/capstoneProject/blob/master/Fina
     expert in data analytics field one day. My other 
     interest lie in Big Data and Machine Learning. 
 </p>
+<p aligh = "left">
+Ryan Report: https://github.com/ryankall/capstoneProject/blob/master/individualpaper.pdf
+</p>
 <br></br>
 <p align="center">
     <img src="https://github.com/ryankall/capstoneProject/blob/master/13517396_10208688713008784_1369964135096604961_o.jpg" width="200/">

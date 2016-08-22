@@ -40,3 +40,6 @@ Robotics, Computer Vision and Interaction.
 I plan to enroll in graduate school 
 to further my knowledge in those fileds.   
 </p>
+<p aligh = "left">
+Tereza's Report: https://github.com/ryankall/capstoneProject/blob/master/final_report_Tereza_Shterenberg.pdf
+</p>
